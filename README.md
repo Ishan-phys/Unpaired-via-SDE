@@ -8,6 +8,7 @@ Domain A consists of satellite images. Domain B consists of the corresponding ma
 |:---:|
 |![](assets/results1.png)|
 
+From the above image, we observe that our model needs further improvements to perform the unpaired image-to-image translation task. This is the subject of our future work. 
 
 ### Dataset
 The model was trained on the horse2zebra dataset [link](http://efrosgans.eecs.berkeley.edu/cyclegan/datasets/).
